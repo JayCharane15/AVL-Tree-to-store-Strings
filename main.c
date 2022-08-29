@@ -41,7 +41,7 @@ int main()
         {
         case 1:
            
-            printf("Enter month ");
+            printf("Enter month name ");
             scanf("%s",month);
             if(strcmp(month,name1)==0)
             {
